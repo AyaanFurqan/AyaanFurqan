@@ -1,6 +1,8 @@
-Hi 👋, I'm Ayaan Furqan
+# Hi there, I'm Ayaan 👋  
+
+## 🚀 About Me  
 I'm a passionate **Frontend Developer** who loves turning ideas into beautiful and functional web experiences.  
-Currently, I’m exploring **React** and **Python** to expand my skill set.
+Currently, I’m exploring **React** and **Python** to expand my skill set.  
 
 ## 🛠 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
@@ -8,8 +10,9 @@ Currently, I’m exploring **React** and **Python** to expand my skill set.
 - **Backend & Others:** Python (learning)  
 - **Tools:** Git, GitHub, VS Code  
 
-- 🌱 I’m currently learning **python**, **React.js**
+## 🌱 Currently Learning  
+- React.js for building dynamic user interfaces  
+- Python for backend and automation  
 
-
-- 💬 Ask me about **HTML**, **javaScript**, **TypeScript**, **Firebase**
-- 📫 How to reach me: ayaanfurqan008@gmail.com
+## 📫 Connect with Me  
+- Email: ayaan@example.com  
