@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋, I'm Ayaan Furqan
+I'm a passionate **Frontend Developer** who loves turning ideas into beautiful and functional web experiences.  
+Currently, I’m exploring **React** and **Python** to expand my skill set.
 
-<!--
-**AyaanFurqan/AyaanFurqan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Frameworks/Libraries:** React (learning)  
+- **Backend & Others:** Python (learning)  
+- **Tools:** Git, GitHub, VS Code  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **python**, **React.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me about **HTML**, **javaScript**, **TypeScript**, **Firebase**
+- 📫 How to reach me: ayaanfurqan008@gmail.com
