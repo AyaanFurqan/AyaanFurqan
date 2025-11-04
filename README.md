@@ -15,4 +15,4 @@ Currently, I’m exploring **React** and **Python** to expand my skill set.
 - Python for backend and automation  
 
 ## 📫 Connect with Me  
-- Email: ayaan@example.com  
+- Email: ayaanfurqan008@gmail.com 
