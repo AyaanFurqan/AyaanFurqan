@@ -7,12 +7,12 @@ Currently, I’m exploring **React** and **Python** to expand my skill set.
 ## 🛠 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Frameworks/Libraries:** React (learning)  
-- **Backend & Others:** Python (learning)  
+- **Backend & Others:** Express.js,MongoDB,Node.js
 - **Tools:** Git, GitHub, VS Code  
 
 ## 🌱 Currently Learning  
 - React.js for building dynamic user interfaces  
-- Python for backend and automation  
+- Express.js and Node.js for backend   
 
 ## 📫 Connect with Me  
 - Email: ayaanfurqan008@gmail.com 
