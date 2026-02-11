@@ -6,7 +6,7 @@ Currently, I’m exploring **React** and **Python** to expand my skill set.
 
 ## 🛠 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Frameworks/Libraries:** React (learning)  
+- **Frameworks/Libraries:** React 
 - **Backend & Others:** Express.js,MongoDB,Node.js
 - **Tools:** Git, GitHub, VS Code  
 
